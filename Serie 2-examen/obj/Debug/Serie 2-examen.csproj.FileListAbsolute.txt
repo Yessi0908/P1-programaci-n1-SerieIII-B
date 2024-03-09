@@ -1,0 +1,7 @@
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Serie 2-examen\Serie 2-examen\bin\Debug\Serie 2-examen.exe.config
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Serie 2-examen\Serie 2-examen\bin\Debug\Serie 2-examen.exe
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Serie 2-examen\Serie 2-examen\bin\Debug\Serie 2-examen.pdb
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Serie 2-examen\Serie 2-examen\obj\Debug\Serie 2-examen.csproj.AssemblyReference.cache
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Serie 2-examen\Serie 2-examen\obj\Debug\Serie 2-examen.csproj.CoreCompileInputs.cache
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Serie 2-examen\Serie 2-examen\obj\Debug\Serie 2-examen.exe
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Serie 2-examen\Serie 2-examen\obj\Debug\Serie 2-examen.pdb
